@@ -1,4 +1,48 @@
-# Qwik City App ⚡️
+# Poke-Qwik
+
+**Descripción del Proyecto**
+
+Este proyecto aprovecha el potencial de Qwik como framework principal y Tailwind como framework de CSS. En el README encontrarás información esencial para comprender y trabajar con el proyecto, incluyendo:
+
+1. **¿Por qué un nuevo framework?**
+   Explora las razones detrás de la elección de este framework, destacando sus ventajas y características distintivas.
+
+2. **¿Qué es Qwik?**
+   Ofrece una introducción a Qwik, explicando sus funcionalidades clave y cómo se integra en el proyecto.
+
+3. **Estructura de Directorios**
+   Proporciona una visión general de la organización de archivos y carpetas en el proyecto para facilitar la navegación y comprensión.
+
+4. **Proyectos**
+   Ofrece información sobre la gestión de proyectos dentro del framework, destacando las mejores prácticas y consideraciones.
+
+5. **Introducción a:**
+   - **Qwik**
+     Brinda detalles esenciales sobre Qwik, resaltando su papel central en el desarrollo del proyecto.
+   - **Qwik-City**
+     Explora específicamente el subproyecto Qwik-City, proporcionando información detallada sobre su propósito y funcionalidades.
+
+6. **Señales y Estados**
+   Detalla el manejo de señales y estados en el contexto del proyecto, resaltando su importancia y aplicación.
+
+7. **Rutas Básicas**
+   Proporciona una guía sobre las rutas fundamentales dentro del proyecto, facilitando la navegación y comprensión del flujo de trabajo.
+
+8. **Instalar Tailwind**
+   Instrucciones claras sobre cómo integrar y configurar Tailwind como el framework de CSS, asegurando una presentación visual coherente.
+
+9. **Carga Perezosa de Imágenes**
+   Explica la implementación de la carga perezosa de imágenes en el proyecto, optimizando el rendimiento y la eficiencia.
+
+10. **Eventos**
+    Detalla cómo se manejan los eventos en el contexto del proyecto, proporcionando una comprensión clara de la interactividad.
+
+11. **Serialización de Funciones**
+    Explora la serialización de funciones, destacando su utilidad y aplicación específica en el proyecto.
+
+Este README sirve como guía integral para entender y contribuir al proyecto, ofreciendo información detallada sobre su estructura, herramientas clave y mejores prácticas. ¡Bienvenido a la comunidad!
+
+## Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
@@ -14,7 +58,7 @@ This project is using Qwik with [QwikCity](https://qwik.builder.io/qwikcity/over
 
 Inside your project, you'll see the following directory structure:
 
-```
+```bash
 ├── public/
 │   └── ...
 └── src/
